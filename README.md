@@ -47,3 +47,13 @@ def rectangle_area_calculator(width,height):
     return area
 ```
 
+## 2020/07/02
+
+Today the weather was cloudy and dark. 
+
+## 2020/07/03
+
+Today the weather was still rainy and cloudy.
+
+## 2020/07/04 
+Today, finally the weather is nice and sunny.

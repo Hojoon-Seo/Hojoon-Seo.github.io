@@ -53,7 +53,12 @@ Today the weather was cloudy and dark.
 
 ## 2020/07/03
 
-Today the weather was still rainy and cloudy.
+Today my Airpods Pro arrived from Korea.
 
 ## 2020/07/04 
+
 Today, finally the weather is nice and sunny.
+
+## 2020/07/05
+
+Today I met my friends and had a farewell party for a friend.

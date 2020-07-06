@@ -62,3 +62,7 @@ Today, finally the weather is nice and sunny.
 ## 2020/07/05
 
 Today I met my friends and had a farewell party for a friend.
+
+## 2020/07/06
+
+![My turtle picture 1](.\turtle_picture_1.png)

@@ -6,6 +6,28 @@
 
 ![My turtle picture 1](.\Turtle_picture_1.png)
 
+This picture was created by the turtle function of Python. The code is as follows:
+
+```
+import turtle
+t = turtle.Turtle()
+s = turtle.getscreen()
+t.speed(0)
+t.shape("turtle")
+s.bgcolor("pink")
+s.tracer(0)
+for i in range(100):
+    t.color("blue")
+    t.fd(57)
+    t.left(46)
+    t.color("red")
+    t.fd(34)
+    t.setpos(0,2)
+    t.circle(50)
+turtle.done()
+
+```
+
 ## 2020/07/05
 
 Today I met my friends and had a farewell party for a friend.

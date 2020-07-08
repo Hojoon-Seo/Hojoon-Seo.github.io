@@ -2,6 +2,24 @@
 
 # Welcome to my blog
 
+## 2020/09/06
+I forgot to upload my blog yesterday. But today, I will upload a python challenge from w3resource. I solved the problem below by the code below the challenge.
+
+## Question: Write a python program to check if a given positive integer is a power of four.
+
+```
+number = int(input("What number do you chose?: "))
+i = 0
+while 3**i < number + 1:
+
+    if 3**i == number:
+        print("Yes")
+    else:
+        print("No")
+    
+    i += 1
+```
+
 ## 2020/07/06
 
 ![My turtle picture 1](.\Turtle_picture_1.png)

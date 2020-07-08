@@ -5,7 +5,7 @@
 ## 2020/09/06
 I forgot to upload my blog yesterday. But today, I will upload a python challenge from w3resource. I solved the problem below by the code below the challenge.
 
-## Question: Write a python program to check if a given positive integer is a power of four.
+### Question: Write a python program to check if a given positive integer is a power of four.
 
 ```
 number = int(input("What number do you chose?: "))

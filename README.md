@@ -3,7 +3,7 @@
 # Welcome to my blog
 
 ## 2020/07/09
-Today, I had a very tiring day because I had my English class and my maths class where my English class is 4 hours straight and my maths lesson is 1. Today the temperature was very hot. Now I am going to do my homework.
+Today, I had a very tiring day because I had my English class and my maths class where my English class is 4 hours straight and my maths lesson is 1 hour. Today the temperature was very hot. Now I am going to do my homework.
 
 ## 2020/07/08
 I forgot to upload my blog yesterday. But today, I will upload a python challenge from w3resource. I solved the problem below by the code below the challenge.

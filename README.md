@@ -2,6 +2,9 @@
 
 # Welcome to my blog
 
+## 2020/07/10
+The weather was nice today. I have finished all my homework 📚 today.
+
 ## 2020/07/09
 Today, I had a very tiring day because I had my English class and my maths class where my English class is 4 hours straight and my maths lesson is 1 hour. Today the temperature was very hot. Now I am going to do my homework.
 

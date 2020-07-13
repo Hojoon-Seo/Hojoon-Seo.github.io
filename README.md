@@ -2,6 +2,9 @@
 
 # Welcome to my blog
 
+## 2020/07/13
+Today I opened(literally) my old laptop and removed the battery, RAM, HDD and broke the CPU accidentally(Who cares because it's pentium).
+
 ## 2020/07/10
 The weather was nice today. I have finished all my homework 📚 today.
 

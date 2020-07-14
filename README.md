@@ -5,7 +5,7 @@
 ## 2020/07/14
 I got a raspberry pi 4 today. I am very excited about my further lessons.
 
-![My New Raspberry Pi](.\RaspberryPi.jpeg)
+![My New Raspberry Pi](.\RaspberryPi.png)
 
 ## 2020/07/13
 Today I opened(literally) my old laptop and removed the battery, RAM, HDD and broke the CPU accidentally(Who cares because it's pentium).

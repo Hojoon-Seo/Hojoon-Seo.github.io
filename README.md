@@ -2,6 +2,9 @@
 
 # Welcome to my blog
 
+## 2020/07/15
+Today, I tried to crack my hotspot password, and succeeded.
+
 ## 2020/07/14
 I got a raspberry pi 4 today. I am very excited about my further lessons.
 

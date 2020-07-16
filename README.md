@@ -2,6 +2,9 @@
 
 # Welcome to my blog
 
+## 2020/07/16
+My mother bought me a case for my Airpods.
+
 ## 2020/07/15
 Today, I tried to crack my hotspot password, and succeeded.
 

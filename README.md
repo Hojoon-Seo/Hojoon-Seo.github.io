@@ -2,6 +2,15 @@
 
 # Welcome to my blog
 
+## 2020/07/19
+The weather is very foggy today.
+
+## 2020/07/18 
+The weather was nice today.
+
+## 2020/07/17
+I had a very tiring day today.
+
 ## 2020/07/16
 My mother bought me a case for my Airpods.
 

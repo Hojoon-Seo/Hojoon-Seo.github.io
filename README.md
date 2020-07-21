@@ -2,6 +2,8 @@
 
 # Welcome to my blog
 
+## 2020/07/21
+
 ## 2020/07/20
 Finally, today, I started to learn about how to use the raspberry pi.
 

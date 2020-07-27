@@ -2,6 +2,11 @@
 
 # Welcome to my blog
 
+## 2020/07/27
+Today, the weather was nice.
+
+## 2020/07/26
+
 ## 2020/07/25
 
 ## 2020/07/24

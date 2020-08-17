@@ -3,7 +3,7 @@
 # Welcome to my blog
 
 ## 2020/08/17
-🤓🤓🤓🤓🤩🥳
+How a computer connects to the Internet: Computer asks switch --> Switch asks router --> router asks AP(Access Point) --> If access point allows it, the computer can connect to the Internet
 
 ## 2020/08/16 
 😜🥳🥳🥳🥳

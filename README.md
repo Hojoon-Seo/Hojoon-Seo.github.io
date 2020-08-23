@@ -2,6 +2,9 @@
 
 # Welcome to my blog
 
+## 2020/08/23
+The weather's nice.
+
 ## 2020/08/22
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla egestas tristique odio, non elementum nulla. Aliquam lobortis, erat at condimentum pellentesque, nulla metus tempus enim, ac maximus ipsum ante a lectus. Etiam eu laoreet neque. Nulla sit amet bibendum diam. Vestibulum maximus, magna eget mollis fermentum, eros ligula pharetra lectus, sit amet tempus ligula eros a augue. Nam eu porttitor dolor. Vestibulum ut risus malesuada, ultricies mi quis, sollicitudin nunc. Curabitur at velit vel elit pellentesque eleifend. Sed finibus nibh non ullamcorper aliquam.
 

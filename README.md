@@ -2,6 +2,9 @@
 
 # Welcome to my blog
 
+## 2020/08/24
+The weather is fine today.
+
 ## 2020/08/23
 The weather's nice.
 

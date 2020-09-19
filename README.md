@@ -2,6 +2,16 @@
 
 # Welcome to my blog
 
+## 2020/09/19
+
+## 2020/09/18
+
+## 2020/09/17
+
+## 2020/09/16
+
+## 2020/09/17
+
 ## 2020/09/14
 
 ## 2020/09/13
@@ -44,7 +54,7 @@
 I had a long day today.
 
 ## 2020/08/25
-The weather was nice)
+The weather was nice.
 
 ## 2020/08/24
 The weather is fine today.

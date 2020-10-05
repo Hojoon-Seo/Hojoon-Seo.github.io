@@ -4,6 +4,9 @@
 
 ## 2020/10/5
 I am excited to learn JAVA to create my own chatting application.
+2 promises made with my teacher: 
+	1 - Updating my blog everyday.
+	2 - Asking immediately when I have a question about something.
 
 ## 2020/10/4
 

@@ -2,6 +2,15 @@
 
 # Welcome to my blog
 
+## 2020/10/5
+I am excited to learn JAVA to create my own chatting application.
+
+## 2020/10/4
+
+## 2020/10/3
+
+## 2020/10/2
+
 ## 2020/10/1
 
 ## 2020/09/30

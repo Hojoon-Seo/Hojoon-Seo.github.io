@@ -2,6 +2,15 @@
 
 # Welcome to my blog
 
+## 2020/10/8
+I want to make my own app quickly.
+
+## 2020/10/7
+I learned JAVA in class today. It was extremely hard.
+
+## 2020/10/6
+Today I learned a bit of JAVA on Youtube. It is very hard.
+
 ## 2020/10/5
 I am excited to learn JAVA to create my own chatting application.
 2 promises made with my teacher: 

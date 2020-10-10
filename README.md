@@ -2,6 +2,12 @@
 
 # Welcome to my blog
 
+## 2020/10/10
+Today I researched about useful Mac tips
+
+## 2020/10/9
+I am enjoying my JAVA research.
+
 ## 2020/10/8
 I want to make my own app quickly.
 

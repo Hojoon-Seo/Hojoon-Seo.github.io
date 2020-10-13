@@ -2,6 +2,12 @@
 
 # Welcome to my blog
 
+## 2020/10/12
+I found a nice website called hackthissite.org
+
+## 2020/10/11
+I researched about Mac terminal tips.
+
 ## 2020/10/10
 Today I researched about useful Mac tips
 

@@ -2,6 +2,9 @@
 
 # Welcome to my blog
 
+## 2020/10/14
+Today I completely understood the if statement in JAVA.
+
 ## 2020/10/13
 I tried hacking with the site yesterday and it was very fun. 
 

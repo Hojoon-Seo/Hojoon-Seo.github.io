@@ -2,6 +2,9 @@
 
 # Welcome to my blog
 
+## 2020/10/13
+I tried hacking with the site yesterday and it was very fun. 
+
 ## 2020/10/12
 I found a nice website called hackthissite.org
 

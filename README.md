@@ -2,6 +2,9 @@
 
 # Welcome to my blog
 
+## 2020/10/15
+I want to try learning HTML to try and hack the site hackthissite.org since it is very entertaining when I succeed to hack the password.
+
 ## 2020/10/14
 Today I completely understood the if statement in JAVA.
 

@@ -2,6 +2,12 @@
 
 # Welcome to my blog
 
+## 2020/10/17
+Today I learned about arrays in JAVA. It is very hard.
+
+## 2020/10/16
+I researched about some JAVA hacking.
+
 ## 2020/10/15
 I want to try learning HTML to try and hack the site hackthissite.org since it is very entertaining when I succeed to hack the password.
 

@@ -2,6 +2,9 @@
 
 # Welcome to my blog
 
+## 2020/10/18
+Today I tried to hack the 3rd level of hackthissite.org. It is very hard. I failed to hack  it.
+
 ## 2020/10/17
 Today I learned about arrays in JAVA. It is very hard.
 

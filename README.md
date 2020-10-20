@@ -2,6 +2,9 @@
 
 # Welcome to my blog
 
+## 2020/10/20
+I have revised the JAVA codes I learned last lesson in school.
+
 ## 2020/10/19
 I succeeded to hack the 3rd level of the site. However, the fourth level is even harder.
 

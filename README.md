@@ -2,6 +2,9 @@
 
 # Welcome to my blog
 
+## 2020/10/19
+I succeeded to hack the 3rd level of the site. However, the fourth level is even harder.
+
 ## 2020/10/18
 Today I tried to hack the 3rd level of hackthissite.org. It is very hard. I failed to hack  it.
 

@@ -2,6 +2,15 @@
 
 # Welcome to my blog
 
+## 2020/10/23
+I really don't like exams. 
+
+## 2020/10/22
+I am revising for my computer science exam today.
+
+## 2020/10/21
+It's my test week next week.
+
 ## 2020/10/20
 I have revised the JAVA codes I learned last lesson in school.
 

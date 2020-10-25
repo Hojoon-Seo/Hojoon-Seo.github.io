@@ -2,6 +2,9 @@
 
 # Welcome to my blog
 
+## 2020/10/25
+I really hate exams.
+
 ## 2020/10/24
 Today I have tried hacking the fourth level of hackthissite.org and I am reviewing my last computer lesson, but it's very hard and confusing.
 

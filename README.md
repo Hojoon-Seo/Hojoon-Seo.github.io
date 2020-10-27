@@ -2,6 +2,12 @@
 
 # Welcome to my blog
 
+## 2020/10/27
+Today I have tried to hack the 4th level of the hacking site again. However, I have failed to hack it again.
+
+## 2020/10/26
+I am reviewing the work I did in my last lesson.
+
 ## 2020/10/25
 I really hate exams.
 

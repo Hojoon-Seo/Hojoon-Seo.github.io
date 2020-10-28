@@ -2,6 +2,31 @@
 
 # Welcome to my blog
 
+## 2020/10/28
+
+```
+public class Program {
+    public static int max(int[] values) {
+        
+        int currentMax = values[0];
+        for (int i = 1; i < values.length; i++) {
+            if (currentMax < values[i]) {
+                currentMax = values[i];
+            }
+        }
+        return currentMax;
+    }
+	public static void main(String[] args) {
+	    int[] values = {1,2,2,3,4,6,2,45,54,52,3};
+	    for (int i = 0; i < values.length; i++) {
+	        System.out.println(values[i]);
+	    }
+        System.out.println(max(values)); 
+	}
+}
+```
+This code find the max number of an array. This program works by comparing all the numbers one by one.
+
 ## 2020/10/27
 Today I have tried to hack the 4th level of the hacking site again. However, I have failed to hack it again.
 

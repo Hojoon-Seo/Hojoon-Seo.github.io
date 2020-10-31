@@ -2,6 +2,12 @@
 
 # Welcome to my blog
 
+## 2020/10/30
+Today I had a very tiring day. I think I played too much.
+
+## 2020/10/29
+Tomorrow is my school Halloween Party. I'm excited.
+
 ## 2020/10/28
 
 ```

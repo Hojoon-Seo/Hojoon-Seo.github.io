@@ -2,6 +2,51 @@
 
 # Welcome to my blog
 
+## 2020/11/14
+Today's lesson was very hard.
+
+## 2020/11/13
+Today Youtube has died. But it has resurrected.
+
+## 2020/11/12
+I am exhausted today because of the big event yesterday. 
+
+## 2020/11/11
+I gave and received lots of Peperos today.
+
+## 2020/11/10
+Today I had my Maths exam. I am sure I failed the test since I just managed to answer all the questions on the last minute.
+
+## 2020/11/09
+I'm so tired today because of my homework.
+
+##2020/11/08
+Today will be a tiring day because I have two lessons and 3 hours of lesson time in total.
+
+## 2020/11/07
+Today I have studied about app making today.
+
+## 2020/11/06
+Today we celebrated one of my friend's birthday.
+
+## 2020/11/05
+Today I searched about some Mac tips.
+
+## 2020/11/04
+I have to revise for my test next week.
+
+## 2020/11/03
+Today I have reviewed the work I have done last lesson.
+
+## 2020/11/02
+Hackthissite.org is so hard.
+
+## 2020/11/01
+
+
+## 2020/10/31
+I have tried to hack the fourth level of hackthissite.org and failed "again".
+
 ## 2020/10/30
 Today I had a very tiring day. I think I played too much.
 

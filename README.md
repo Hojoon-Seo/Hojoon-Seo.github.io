@@ -2,6 +2,15 @@
 
 # Welcome to my blog
 
+## 2020/11/17
+Today I had my history exam. I think I did well.
+
+## 2020/11/16
+I have found the answer to the 4th level of hackthissite.org. The answer was to give up.
+
+## 2020/11/15
+I am excited to make my own app later.
+
 ## 2020/11/14
 Today's lesson was very hard.
 

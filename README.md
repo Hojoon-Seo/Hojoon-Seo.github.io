@@ -2,6 +2,14 @@
 
 # Welcome to my blog
 
+## 2021/01/06
+Today I learned a very hard concept of JAVA in my class.
+
+## 2020/11/28
+returnType functionName(inputType inputName) {
+	functionbody
+}
+
 ## 2020/11/17
 Today I had my history exam. I think I did well.
 

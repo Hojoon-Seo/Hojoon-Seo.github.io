@@ -2,6 +2,30 @@
 
 # Welcome to my blog
 
+## 2021/01/27
+IU 신곡 D-Day
+
+## 2021/01/26
+IU 신곡 D-1
+
+## 2021/01/25
+IU 신곡 D-2
+
+## 2021/01/24
+IU 신곡 D-3
+
+## 2021/01/23
+IU 신곡 D-4
+
+## 2021/01/22
+IU 신곡 D-5
+
+## 2021/01/21
+IU 신곡 D-6
+
+## 2021/01/20
+IU 신곡 D-7
+
 ## 2021/01/06
 Today I learned a very hard concept of JAVA in my class.
 
